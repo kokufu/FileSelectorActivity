@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FileSelectorActivity Sample</string>
+
+    <string name="button">Open Dialog</string>
+
+    <string-array name="type">
+        <item>File</item>
+        <item>Dir</item>
+    </string-array>
+</resources>
