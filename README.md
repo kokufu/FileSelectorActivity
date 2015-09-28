@@ -1,5 +1,6 @@
-FileSelectorFragment
+FileSelectorActivity
 ====================
+Simple File or Dir selector dialog for Android.
 
 ## How to use
 First, import the library. If you use Android Studio (Gradle), you can do it like below.
